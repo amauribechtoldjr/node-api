@@ -30,6 +30,8 @@ module.exports = {
 	async delete(req, res){
 		await Product.findByIdAndRemove(req.params.id);
 
+		// adding new docs
+
 		res.send();
 	}
 };
