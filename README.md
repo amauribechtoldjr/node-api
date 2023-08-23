@@ -1,3 +1,3 @@
 # node-api
 
-## basic CRUD utilizing express & nodejs
+## express, node.js
